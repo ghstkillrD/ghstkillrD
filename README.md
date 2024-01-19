@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hirantha Ranathunga</h1>
 <h3 align="center">A passionate full stack developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEzaWNxenZpN3MyMDhxamFwbTZraW5sdGM5bm82Y3o5ZDExb3dkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghstkillrd&label=Profile%20views&color=0e75b6&style=flat" alt="ghstkillrd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghstkillrd" alt="ghstkillrd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
